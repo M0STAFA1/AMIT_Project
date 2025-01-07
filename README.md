@@ -78,10 +78,6 @@ Displaying additional process details, such as command-line arguments.
 * Displaying CPU and memory usage in graphs.
 * Allowing the user to filter processes by name, user, or other criteria.
 
-
-### Video For The Code
-
-
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
